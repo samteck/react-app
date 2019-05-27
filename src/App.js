@@ -14,7 +14,7 @@ function App() {
 	  Hello my name is Samarth. This is App is auto-deployed via Jenkins.
 	</p>
 	<p>
-	  Date:27-5-2019
+	  Date : 27-5-2019
 	</p>
         <a
           className="App-link"
