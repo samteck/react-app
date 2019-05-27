@@ -13,6 +13,9 @@ function App() {
 	<p>
 	  Hello my name is Samarth. This is deployed automatically via jenkins.
 	</p>
+	<p>
+	  Date : 27-5-2019
+	</p>
         <a
           className="App-link"
           href="https://reactjs.org"
