@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
 	<p>
-	  Hello my name is Samarth. This is deployed automatically via jenkins.
+	  Hello my name is Samarth. This is App is auto-deployed via Jenkins.
 	</p>
 	<p>
 	  Date : 27-5-2019
